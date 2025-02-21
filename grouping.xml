@@ -7,10 +7,11 @@
 	
 	<groups>
 		<run>
-			<!--<include name="Sanity"></include>
-			<include name="Regression"></include>
-			<exclude name="Master"></exclude>-->
-			<include name="Master"></include>
+			<!-- <include name="Sanity"></include>
+			<include name="Regression"></include>-->
+			<!-- <exclude name="Master"></exclude>-->
+			<!-- <include name="Master"></include> -->
+			<include name="Datadriven"></include>
 			
 		</run>	
 	</groups>
